@@ -1,4 +1,4 @@
-Active Record Lite
+#Active Record Lite
 
 ###Summary:
 - ORM written in Ruby, inspired by Active Record
